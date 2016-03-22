@@ -26,7 +26,7 @@ some techniques are under instructions of my roommate Chenfeng
 ###Background
 Nowadays the mathematical physics equations(ordinary and partial differential euqations) have been playing a significant role in modern science. However, most of them do not have an analytical solution, which emphasises the importance of developing numerical methods to solve these problems. And the lecture made us take the first step into learning such methods.  
 **the** **Euler** **Method**:  
-As is known to us all, any analytical function, either is real or complex, can be written in the form of an infinite series, each term is related to the function's derivatives of order n,which is called Tylar series. To solve the problem numerically,we can pick the 0 order term and the one order term as the approximation.That is the main idea of this method.
+As is known to us all, any analytical function, either real or complex, can be written in the form of an infinite series, each term is related to the function's derivatives of order n,which is called Tylar series. To solve the problem numerically,we can pick the 0 order term and the one order term as the approximation.That is the main idea of this method.
 
 ###Digest
 choose the variables wisely, develop a program to calculate all the data we need and draw a diagram to show the changing process.
