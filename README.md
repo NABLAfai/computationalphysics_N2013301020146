@@ -3,10 +3,11 @@ Homework of Computational Physics course of WHU
 
 All the assignments distributed by the teacher Hao Cai by far:
 Link:  
-[第一次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第一次作业)
-[第二次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第二次作业)
-[第三次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第三次作业)
+[第一次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第一次作业)  
+[第二次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第二次作业)  
+[第三次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第三次作业)  
 [第四次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第四次作业)
+
 ##My approach to the second assignment
 ###Background
 after learning the grammar of Python, the teacher asked us to write a small program which can show letters composed of notations such as "#".
