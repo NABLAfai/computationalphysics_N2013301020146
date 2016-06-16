@@ -20,7 +20,8 @@ NA=80,NB=0,t=1, time interval=0.05
 NA=100,NB=50,t=1, time interval=0.02  
 ![](https://raw.githubusercontent.com/NABLAfai/computationalphysics_N2013301020146/master/4th%203.png)  
 NA=100,NB=30,t=2, time interval=0.03  
-
+[codes](https://raw.githubusercontent.com/NABLAfai/computationalphysics_N2013301020146/master/4th%20homework.py)  
+  
 All data is shown in the pictures  
 ###Conclusion  
 In general, in this question, no matter what the initial ratio of NA and NB is, the system will eventually reach a stable state where NA=NB=(NA(0)+NB(0))/2. This is consistent with the idea that the system reaches a steady state in which NA and NB are constant. In such a steady state that the time derivatives dNA/dt and dNB/dt should vanish which can also be observed from the pictures above.
