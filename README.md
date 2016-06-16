@@ -9,7 +9,7 @@ Link:
 [第四次作业](https://github.com/NABLAfai/computationalphysics_N2013301020146/blob/master/the%204th%20homework.md)  
 [第五次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
 [第六次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
-[第七次作业](https://www.zybuluo.com/NABLAfai/note/409236)
-
+[第七次作业](https://www.zybuluo.com/NABLAfai/note/409236)  
+[第八次作业](https://www.zybuluo.com/NABLAfai/note/410043)
 
 
