@@ -5,8 +5,8 @@ All the assignments distributed by the teacher Hao Cai by far:
 Link:  
 [第一次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第一次作业)  
 [第二次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第二次作业)  
-[第三次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第三次作业)  
-[第四次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第四次作业)  
+[第三次作业](https://raw.githubusercontent.com/NABLAfai/computationalphysics_N2013301020146/master/the%203rd%20homework.md)  
+[第四次作业](https://raw.githubusercontent.com/NABLAfai/computationalphysics_N2013301020146/master/the%204th%20homework.md)  
 [第五次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
 [第六次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
 [第六次作业](https://www.zybuluo.com/NABLAfai/note/409236)
