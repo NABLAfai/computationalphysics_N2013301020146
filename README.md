@@ -14,7 +14,7 @@ Link:
 ###Background
 After learning the grammar of Python, the teacher asked us to write a small program which can show letters composed of notations such as "#".
 
-###Digest
+###Abstract
 the core of the following program are dictionary and 2 dimension array
 
 ###Content
