@@ -8,7 +8,8 @@ Link:
 [第三次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第三次作业)  
 [第四次作业](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md#第四次作业)  
 [第五次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
-[第六次作业](https://www.zybuluo.com/NABLAfai/note/408520)
+[第六次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
+[第六次作业](https://www.zybuluo.com/NABLAfai/note/409236)
 ##My approach to the third assignment
 ###Background
 after learning the grammar of Python, the teacher asked us to write a small program which can show letters composed of notations such as "#".
