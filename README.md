@@ -14,7 +14,7 @@ Link:
 [第九次作业](https://www.zybuluo.com/NABLAfai/note/419563)  
 [第十次作业](https://www.zybuluo.com/NABLAfai/note/419050)  
 [第十一次作业](https://www.zybuluo.com/NABLAfai/note/490216)  
-[第十二次作业]()  
+[第十二次作业](https://www.zybuluo.com/NABLAfai/note/411902)  
 [第十三次作业]()  
 [第十四次作业]()  
 [期末作业]()
