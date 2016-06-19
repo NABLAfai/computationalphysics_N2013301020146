@@ -21,5 +21,5 @@ markdown基本语法已掌握，从各次作业中就能看出
 [第十一次作业](https://www.zybuluo.com/NABLAfai/note/490216)  
 [第十二次作业](https://www.zybuluo.com/NABLAfai/note/411902)  
 [第十三次作业](https://www.zybuluo.com/NABLAfai/note/402937)  
-[第十四次作业]()  
+[第十四次作业](https://www.zybuluo.com/NABLAfai/note/402987)  
 [期末作业]()
