@@ -1,5 +1,7 @@
 # computationalphysics_N2013301020146
-Homework of Computational Physics course of WHU
+Homework of Computational Physics course of WHU  
+物基一班  陈天懿  
+学号：2013301020146
 
 All the assignments distributed by the teacher Hao Cai by far:  
 Link:  
