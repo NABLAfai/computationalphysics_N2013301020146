@@ -12,7 +12,7 @@ Link:
 markdown基本语法已掌握，从各次作业中就能看出  
 [第三次作业](https://github.com/NABLAfai/computationalphysics_N2013301020146/blob/master/the%203rd%20homework.md)  
 [第四次作业](https://github.com/NABLAfai/computationalphysics_N2013301020146/blob/master/the%204th%20homework.md)  
-[第五次作业](https://www.zybuluo.com/NABLAfai/note/407620)  
+[第五次作业](https://github.com/NABLAfai/computationalphysics_N2013301020146/blob/master/the%205th%20homework.md)  
 [第六次作业](https://www.zybuluo.com/NABLAfai/note/408520)  
 [第七次作业](https://www.zybuluo.com/NABLAfai/note/409236)  
 [第八次作业](https://www.zybuluo.com/NABLAfai/note/410043)  
@@ -22,4 +22,6 @@ markdown基本语法已掌握，从各次作业中就能看出
 [第十二次作业](https://www.zybuluo.com/NABLAfai/note/411902)  
 [第十三次作业](https://www.zybuluo.com/NABLAfai/note/411937)  
 [第十四次作业](https://www.zybuluo.com/NABLAfai/note/411987)  
-[期末作业](https://www.zybuluo.com/NABLAfai/note/410241)
+[期末作业](https://www.zybuluo.com/NABLAfai/note/410241)  
+老师您好！
+我已认真补完以前缺漏的作业，并完成了期末作业，请老师批阅，谢谢！
